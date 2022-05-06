@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GraphQL, AWS**
 
-- 💬 Ask me about **React, Typescript, Redux Toolkit, CSS, SASS, Node.js, Express, MongoDB, Mongoose**
+- 💬 Ask me about **React, Typescript, Redux Toolkit, CSS, SASS, Node.js, Express, MongoDB, Mongoose, Cooking Thai food!**
 
 - 📫 How to reach me **siri.lerdsirisopon@gmail.com**
 
