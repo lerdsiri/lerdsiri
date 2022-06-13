@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siri (yes, Apple took my name!)</h1>
 <h3 align="center">Business lawyer turned fullstack developer (frontend focus)</h3>
 
-- 🔭 I’m currently working on **job listing web app (with GraphQL and AWS Amplify)**
-
-- 🌱 I’m currently learning **GraphQL, AWS**
-
 - 💬 Ask me about **React, Typescript, Redux Toolkit, CSS, SASS, Node.js, Express, MongoDB, Mongoose, Cooking Thai food!**
 
 - 📫 How to reach me **siri.lerdsirisopon@gmail.com**
