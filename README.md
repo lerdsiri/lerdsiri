@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Siri (yes, Apple took my name!)</h1>
-<h3 align="center">Business lawyer turned fullstack developer (frontend focus)</h3>
+<h1 align="center">Hi 👋,</h1>
+<h3 align="center"></h3>
 
 - 💬 Ask me about **React, Typescript, Redux Toolkit, CSS, SASS, Node.js, Express, MongoDB, Mongoose, Cooking Thai food!**
 
-- 📫 How to reach me **siri.lerdsirisopon@gmail.com**
+- 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
