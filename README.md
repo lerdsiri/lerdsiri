@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center"></h3>
 
-- 💬 Ask me about **React, Typescript, Redux Toolkit, CSS, SASS, Node.js, Express, MongoDB, Mongoose, Cooking Thai food!**
+- 💬 Ask me about **Python, numpy, Pandas, matplotlib, seaborn, React, Typescript, Redux Toolkit, CSS, SASS, Node.js, Express, MongoDB, Mongoose, Cooking Thai food!**
 
 - 📫
 
